@@ -11,6 +11,25 @@ a:visited { color: purple; }
 a:hover { background: yellow; }  
 a:active { color: lime; } 
 
+div.flex-container{
+    display:flex;
+    background-color:beige;
+}
+
+div.flex-container {
+    background-color: black;
+    color: white;
+    margin: 5px;
+    width: 20px;
+}
+
+div.contenedor {
+    text-align: center;
+    padding: 10px 20px;
+    border: 10px; 
+    align-content: center;
+}
+
 P {
     font-size : 12pt;     
     font-family : arial,helvetica;
@@ -35,6 +54,12 @@ p.medianacursiva{
     font-family : arial,helvetica;
     font-weight : italic;
 }
+p.negritaCH{
+    font-size : 8pt;     
+    font-family : arial,helvetica;
+    font-weight : italic;
+}
+
 H1 {        
     font-size : 36pt;    
     font-family : verdana,arial;
@@ -48,6 +73,19 @@ TD {
     text-align : center;
     background-color : 666666;
     }
+
+img {
+    max-height: 50%;
+    height: 50%;
+    border-radius: 10px;
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+
 /*address {
     margin-top: 1em;
     padding-top: 1em;

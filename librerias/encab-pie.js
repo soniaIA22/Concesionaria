@@ -29,7 +29,7 @@ cad=`
   <a class="redsocial" href="https://facebook.com/"><i class="fa-brands fa-facebook-f"></i></a>
   <a class="redsocial" href="http://www.twitter.com/"><i class="fa-brands fa-twitter"></i></a>
   <a class="redsocial" href="http://www.pinterest.com/"><i class="fa-brands fa-pinterest-p"></i></a>
-  <p class="smallBlanca">Derechos reservados @2022 - Creada en septiembre de 2022</br>Maximiliano Martins de Vargas - Sebastian Longhitano - Sonia Ibañez Alvarez</p>
+  <p class="smallBlanca">Derechos reservados @2022 - Creada en septiembre de 2022</br>Maximiliano Martins de Vargas - Sonia Ibañez Alvarez</p>
 </div>
 </nav> 
 `
